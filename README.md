@@ -30,7 +30,7 @@ Node.js · Express.js · HTML · CSS · JavaScript
 **Prerequisites:** Node.js
 
 ```bash
-git clone https://github.com/Archils/Note-Taker.git
+git clone https://github.com/Archo2/Note-Taker.git
 cd Note-Taker
 npm install
 npm start
@@ -41,5 +41,5 @@ Then open http://localhost:3001.
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
